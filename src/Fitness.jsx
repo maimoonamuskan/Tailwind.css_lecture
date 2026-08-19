@@ -54,7 +54,7 @@ function Fitness() {
             <div className="rounded-3xl bg-gradient-to-br from-purple-600 to-pink-500 p-10 text-center shadow-2xl">
 
               <div className="rounded-2xl bg-white/10 p-10 backdrop-blur">
-                <span className="text-8xl">🏋️</span>
+                <span className="text-8xl"></span>
 
                 <h3 className="mt-5 text-3xl font-bold text-white">
                   Stay Strong
@@ -103,7 +103,7 @@ function Fitness() {
             <div className="rounded-2xl border border-gray-200 bg-gray-50 p-6 shadow-md transition hover:-translate-y-2 hover:shadow-xl">
 
               <div className="text-5xl">
-                💪
+                
               </div>
 
               <h3 className="mt-5 text-xl font-bold text-gray-900">
@@ -125,7 +125,7 @@ function Fitness() {
             <div className="rounded-2xl border border-gray-200 bg-gray-50 p-6 shadow-md transition hover:-translate-y-2 hover:shadow-xl">
 
               <div className="text-5xl">
-                🏃
+                
               </div>
 
               <h3 className="mt-5 text-xl font-bold text-gray-900">
@@ -147,7 +147,6 @@ function Fitness() {
             <div className="rounded-2xl border border-gray-200 bg-gray-50 p-6 shadow-md transition hover:-translate-y-2 hover:shadow-xl">
 
               <div className="text-5xl">
-                🧘
               </div>
 
               <h3 className="mt-5 text-xl font-bold text-gray-900">
